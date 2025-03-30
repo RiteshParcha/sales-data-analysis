@@ -27,5 +27,5 @@ This project analyzes sales data using **MS Excel, SQL, and Power BI** to find b
 3. Open the Power BI file to view interactive dashboards.
 
 ---
-📌 **Author:** [Your Name]  
-📌 **LinkedIn:** [Your LinkedIn Profile]  
+📌 **Author:** Ritesh Parcha  
+📌 **LinkedIn:** www.linkedin.com/in/ritesh-parcha-64373365 
