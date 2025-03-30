@@ -1,0 +1,50 @@
+﻿Order_ID , Date , Product , Category , Quantity , Price , Total_Sales , Customer_City , Payment_Method
+1123,2025-01-02,Laptop,Electronics,2,45499,90998,Ghaziabad,UPI
+1126,2025-01-05,Mobile,Electronics,1,45529,45529,Delhi,Credit Card
+1129,2025-01-08,Laptop,Electronics,4,45559,182236,Faridabad,Debit Card
+1132,2025-01-11,Mobile,Electronics,5,45589,227945,Noida,UPI
+1135,2025-01-14,Wipes,Baby Care,6,199,1194,Ghaziabad,Credit Card
+1138,2025-01-17,Printer,Electronics,1,45649,45649,Delhi,Debit Card
+1141,2025-01-20,Towel,Clothes,2,599,1198,Faridabad,UPI
+1144,2025-01-23,Jeans,Clothes,3,699,2097,Noida,Credit Card
+1147,2025-01-26,Tshirt,Clothes,4,499,1996,Ghaziabad,Debit Card
+1150,2025-01-29,Laptop,Electronics,5,45769,228845,Delhi,UPI
+1153,2025-02-01,Mobile,Electronics,6,45799,274794,Faridabad,Credit Card
+1156,2025-02-04,Jeans,Clothes,7,600,4200,Noida,Debit Card
+1159,2025-02-07,Jeans,Clothes,8,699,5592,Ghaziabad,UPI
+1162,2025-02-10,Towel,Clothes,9,699,6291,Delhi,Credit Card
+1165,2025-02-13,Wipes,Baby Care,10,199,1990,Faridabad,Debit Card
+1168,2025-02-16,Book,Books,11,250,2750,Noida,UPI
+1171,2025-02-19,Laptop,Electronics,3,45979,137937,Ghaziabad,Credit Card
+1174,2025-02-22,Book,Books,13,499,6487,Delhi,Debit Card
+1177,2025-02-25,Mobile,Electronics,2,46039,92078,Faridabad,UPI
+1180,2025-02-28,Jeans,Clothes,6,699,4194,Noida,Credit Card
+1183,2025-03-03,Printer,Electronics,2,46099,92198,Ghaziabad,Debit Card
+1186,2025-03-06,Baby Car,Toys,2,234,468,Delhi,UPI
+1189,2025-03-09,Mobile,Electronics,1,46159,46159,Faridabad,Credit Card
+1192,2025-03-12,Underwear,Clothes,3,699,2097,Noida,Debit Card
+1195,2025-03-15,Laptop,Electronics,2,46219,92438,Ghaziabad,UPI
+1198,2025-03-18,Mobile,Electronics,1,46249,46249,Delhi,Credit Card
+1201,2025-03-21,Laptop,Electronics,1,46279,46279,Faridabad,Debit Card
+1204,2025-03-24,Mobile,Electronics,2,46309,92618,Noida,UPI
+1207,2025-03-27,Wipes,Baby Care,24,199,4776,Ghaziabad,Credit Card
+1210,2025-03-30,Printer,Electronics,1,46369,46369,Delhi,Debit Card
+1213,2025-04-02,Towel,Clothes,2,699,1398,Faridabad,UPI
+1216,2025-04-05,Jeans,Clothes,1,699,699,Noida,Credit Card
+1219,2025-04-08,Tshirt,Clothes,3,699,2097,Ghaziabad,Debit Card
+1222,2025-04-11,Laptop,Electronics,2,46489,92978,Delhi,UPI
+1225,2025-04-14,Mobile,Electronics,1,46519,46519,Faridabad,Credit Card
+1228,2025-04-17,Jeans,Clothes,4,699,2796,Noida,Debit Card
+1231,2025-04-20,Jeans,Clothes,5,699,3495,Ghaziabad,UPI
+1234,2025-04-23,Towel,Clothes,2,699,1398,Delhi,Credit Card
+1237,2025-04-26,Wipes,Baby Care,34,199,6766,Faridabad,Debit Card
+1240,2025-04-29,Book,Books,35,387,13545,Noida,UPI
+1243,2025-05-02,Laptop,Electronics,2,46699,93398,Ghaziabad,Credit Card
+1246,2025-05-05,Book,Books,37,199,7363,Delhi,Debit Card
+1249,2025-05-08,Mobile,Electronics,1,46759,46759,Faridabad,UPI
+1252,2025-05-11,Jeans,Clothes,1,699,699,Noida,Credit Card
+1255,2025-05-14,Printer,Electronics,2,46819,93638,Ghaziabad,Debit Card
+1258,2025-05-17,Baby Car,Toys,1,899,899,Delhi,UPI
+1261,2025-05-20,Mobile,Electronics,1,46879,46879,Faridabad,Credit Card
+1264,2025-05-23,Underwear,Clothes,2,699,1398,Noida,Debit Card
+1267,2025-05-26,Laptop,Electronics,2,46939,93878,Ghaziabad,UPI
