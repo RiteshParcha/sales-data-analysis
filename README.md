@@ -16,10 +16,10 @@ This project analyzes sales data using **MS Excel, SQL, and Power BI** to find b
 ✅ Sales by payment method  
 
 ## Files Included
-📂 `sales_data.xlsx` - Raw dataset  
-📂 `sales_queries.sql` - SQL scripts  
-📂 `sales_dashboard.pbix` - Power BI file  
-📂 `dashboard_screenshot.png` - Power BI visualizations  
+📂 `CheckSalesData-Nitya.csv` - Raw dataset  
+📂 `Salerevenue.sql  ` - SQL scripts  
+📂 `salesrevenueBI.pbix` - Power BI file  
+📂 `ScreenshotsBI.docx` - Power BI visualizations  
 
 ## How to Use
 1. Download the Excel file and explore sales data.
